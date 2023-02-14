@@ -1,7 +1,5 @@
-<https>
-<head> 
-Sangue
-<head/>
-<body>
-Peixe
-<body>
+<html>
+  <head>
+    <title>Document title</title>
+  </head>
+</html>
